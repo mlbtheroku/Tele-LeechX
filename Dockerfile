@@ -1,5 +1,5 @@
 
-FROM anasty17/mltb:heroku
+FROM anasty17/mltb:latest
 
 RUN mkdir ./app
 RUN chmod 777 ./app
